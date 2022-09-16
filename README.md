@@ -1,16 +1,34 @@
-### Hi there 👋
+### Somos especialistas em Floriculturas Online!
 
-<!--
-**applojadev/applojadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img height="300" width="400" src="https://user-images.githubusercontent.com/113396349/190809709-ec3f6665-d2f8-45e7-9c80-d906c2180441.jpg"/>
+
+### Apaixonados por desenvolvimento e tecnologia!
+
+<hr>
+
+<span style="display:flex; vertical-align: middle;justify-content:center;">
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>&nbsp&nbsp       
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />&nbsp&nbsp       
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp&nbsp 
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp&nbsp
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp&nbsp
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp&nbsp
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp&nbsp
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />&nbsp&nbsp
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp&nbsp
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp&nbsp
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />&nbsp&nbsp
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp&nbsp
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />&nbsp&nbsp   
+</span>
+
+<hr>
+
+<div>
+  <a href="https://github.com/applojadev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=applojadev&show_icons=true&include_all_commits=true&count_private=true"/>
+</div>
