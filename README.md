@@ -110,7 +110,6 @@ Somos especialistas em Floriculturas Online!
 * Sugestão de presentes / complementos quando o produto escolhido não pode ser entregue
 * Registra o CEP digitado quando a região da entrega não for atendida por sua floricultura
 
-
 <hr>
 
 ## Apaixonados por desenvolvimento e tecnologia!
@@ -130,6 +129,14 @@ Somos especialistas em Floriculturas Online!
   <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp&nbsp
   <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />&nbsp&nbsp   
 </span>
+
+<hr>
+
+## Página oficial:
+
+Obtenha mais detalhes sobre o apploja! Venha utilizar esta incrivél ferramenta em sua floricultura!
+
+[apploja.com.br](https://apploja.com.br )
 
 <hr>
 
