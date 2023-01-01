@@ -112,7 +112,7 @@ Somos especialistas em Floriculturas Online!
 
 <hr>
 
-## Apaixonados por desenvolvimento e tecnologia!
+## Apaixonado por desenvolvimento e tecnologia!
 
 <span style="display:flex; vertical-align: middle;justify-content:center;">
   <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>&nbsp&nbsp       
