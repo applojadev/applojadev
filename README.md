@@ -117,6 +117,7 @@ Somos especialistas em Floriculturas Online!
 <span style="display:flex; vertical-align: middle;justify-content:center;">
   <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>&nbsp&nbsp       
   <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />&nbsp&nbsp       
+  <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" />&nbsp&nbsp   
   <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp&nbsp 
   <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp&nbsp
   <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp&nbsp
@@ -128,7 +129,7 @@ Somos especialistas em Floriculturas Online!
   <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />&nbsp&nbsp
   <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp&nbsp
   <img height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />&nbsp&nbsp   
-</span>
+</span>     
 
 <hr>
 
