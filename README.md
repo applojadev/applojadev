@@ -11,7 +11,7 @@
 
 devBuild é um canal focado em programação e tecnologias em gerais. Com objetivo de compartilhar técnicas e conhecimentos para ajudar no desenvolvimento de softwares e aplicativos para web e mobile.
 
-<a href="https://www.youtube.com/@devbuildProject" target="_blank"><img src="https://user-images.githubusercontent.com/113396349/212692050-9428d937-edcc-46d2-ac86-30c975a8e1b1.png" target="_blank" width="150px"></a>
+<a href="https://www.youtube.com/@devbuildProject" target="_blank"><img src="https://user-images.githubusercontent.com/113396349/212692050-9428d937-edcc-46d2-ac86-30c975a8e1b1.png" width="150px"></a>
 
 <hr>
 
